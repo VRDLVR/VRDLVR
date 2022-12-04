@@ -1,0 +1,49 @@
+#container { 
+    padding: 10%; 
+    font-family: consolas, courier;
+    background-image: url(topography.webp);
+    }
+
+h1, h2, h3 {
+    font-family: "Trirong", serif;
+    }
+
+#tech-wiki {
+    text-align: center;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: right;
+}
+
+#logo {
+    float:left;
+    padding-left: 10%;
+    padding-top: 1%;
+}
+
+li a {
+    display: block;
+    color: #ff0099;
+    text-align: center;
+    padding: 14px ;
+    
+   
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+#dev {
+    color: #ff0099;
+}
